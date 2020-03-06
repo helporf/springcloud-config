@@ -9,4 +9,4 @@ server:
   port: 8081
 userinfo:
   username: admin
-  password: 123456789
+  password: 54321
